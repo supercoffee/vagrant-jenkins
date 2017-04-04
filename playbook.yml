@@ -1,0 +1,9 @@
+---
+
+- hosts: all
+  roles:
+    - role: geerlingguy.java
+      become: yes
+
+    - role: geerlingguy.jenkins
+      become: yes

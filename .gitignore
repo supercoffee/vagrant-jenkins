@@ -1,2 +1,5 @@
 roles/
 .idea/
+playbook.retry
+*.log
+.vagrant

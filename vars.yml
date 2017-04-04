@@ -1,0 +1,17 @@
+---
+
+jenkins_plugins:
+  - credentials
+  - git
+  - android-lint
+  - matrix-project
+  - maven-plugin
+  - analysis-core
+  - github-api
+  - gradle
+  - htmlpublisher
+  - workflow-api
+  - workflow-scm-step
+  - workflow-step-api
+  - slack
+  - versionnumber
