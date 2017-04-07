@@ -7,3 +7,6 @@
 
     - role: geerlingguy.jenkins
       become: yes
+
+    - role: android_sdk
+      become: yes

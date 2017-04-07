@@ -1,4 +1,11 @@
 ---
 
-- geerlingguy.java,1.7.4
-- geerlingguy.jenkins,2.7.1
+- src: geerlingguy.java
+  version: 1.7.4
+
+- src: geerlingguy.jenkins
+  version: 2.7.1
+
+- src: https://github.com/nickpack/ansible-role-android-sdk
+  version: master
+  name: android_sdk
